@@ -1,0 +1,31 @@
+/* Estilos gerais */
+body {
+   
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: hwb(0 100% 0%);
+}
+
+header {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li a { 
+    text-decoration: none;
+    color: black;
+    background-color: #DFDFDF;
+    font-weight: bold;
+    border-width: 4px;
+    border-style: solid;
+    border-top-color: #DFDFDF;  
+    border-right-color: #666;
+    border-bottom-color: #333;
+    border-left-color: #858585;  
+
+}
